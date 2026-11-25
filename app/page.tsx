@@ -57,7 +57,7 @@ export default function Home() {
                     </button>
                 </div>
             </main>
-            <p className="text-gray-500">@2025 CloudSaaS</p>
+            <p className="text-gray-500">@2026 CloudSaaS</p>
         </div>
     );
 }
